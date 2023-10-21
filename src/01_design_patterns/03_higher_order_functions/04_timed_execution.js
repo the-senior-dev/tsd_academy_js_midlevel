@@ -17,10 +17,12 @@ time: The time taken for fn to execute in milliseconds
 
 function timeExecution(fn) {
     // Your code here
-    const start = new Date();
-    const result = fn();
-    const time = new Date() - start;
-    return {result, time}
+    return function(...args){
+        const start = new Date();
+        const result = fn(...args);
+        const time = new Date() - start;
+        return {result, time}
+    }
 }
 
 // Example
