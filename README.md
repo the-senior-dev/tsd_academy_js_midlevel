@@ -12,7 +12,7 @@ The purpose of this exercise package is simple - to help you understand fundamen
 
 ### 📋 Progress Sheet 
 
-##### 🌟 01. JavaScript Design Patterns
+#### 🌟 01. JavaScript Design Patterns
 
 - [ ] 🍛 **Function Currying**
     - [x] [01. Easy Curring](src/01_design_patterns/01_function_currying/01_easy_currying.js)
@@ -24,7 +24,7 @@ The purpose of this exercise package is simple - to help you understand fundamen
 - [ ] 🔗 **Higher-Order Functions**
   - [ ] [04. Timed Execution](src/01_design_patterns/03_higher_order_functions/04_timed_execution.js)
 
-##### ⏳ 02. Asynchronous JavaScript
+#### ⏳ 02. Asynchronous JavaScript
 
 - [ ] ⏩ **Callbacks**
   - [ ] [05. ForEach Async](/src/02_async_javascript/01_callbacks/05_forEachAsync.js)
@@ -42,7 +42,7 @@ The purpose of this exercise package is simple - to help you understand fundamen
 - [ ] 🕒 **Async/Await**
   - [ ] [11. Async Fetcher](/src/02_async_javascript/04_async_await/11_async_fetcher.js)
 
-##### 🔍 03. Advanced Functions
+#### 🔍 03. Advanced Functions
 
 - [ ] 👁️ **The THIS Object**
     - [ ] [12. `this` in `arrow functions`](/src/03_advanced_functions/01_the_this_object/12_%20thisInArrowFunction.js)
