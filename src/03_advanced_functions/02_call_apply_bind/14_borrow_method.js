@@ -12,8 +12,8 @@ uses .call to apply the source.greet method to target and returns the greeting.
 */
 function borrowMethod() {
     const source = {
-      greet(name) {
-        return `Hello, ${name}`;
+      greet() {
+        return `Hello, ${this.name}`;
       }
     };
   
