@@ -15,9 +15,12 @@ The purpose of this exercise package is simple - to help you understand fundamen
 ##### 🌟 01. JavaScript Design Patterns
 
 - [ ] 🍛 **Function Currying**
-  - [x] [01. Easy Curring](src/01_design_patterns/01_function_currying/01_easy_currying.js)
-  - [ ] [02. Advanced Curry](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
+    - [x] [01. Easy Curring](src/01_design_patterns/01_function_currying/01_easy_currying.js)
+    - [ ] [02. Advanced Curry](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
 
+- [ ] 🍛 **Prototypal Inheritance**
+    - [ ] [03. Prototypal Inheritance](src/01_design_patterns/01_function_currying/01_easy_currying.js)
+ 
 - [ ] 🔗 **Higher-Order Functions**
   - [ ] ❌ 01. Timed Execution
 
@@ -56,5 +59,7 @@ The purpose of this exercise package is simple - to help you understand fundamen
 ---
 
 ## 👪 02 - Prototypal Inheritance 👩‍👧‍👦
+
+![prototypal-inheritance](/docs/prototypal_inheritance.png)
 
 ---

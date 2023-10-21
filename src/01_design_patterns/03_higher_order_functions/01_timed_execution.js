@@ -24,9 +24,9 @@ function timeExecution(fn) {
 const add = (a, b) => a + b;
 const timedAdd = timeExecution(add);
 const output = timedAdd(3, 4);
+console.log(output);
 */
 
-console.log(output);
 // Output should be something like { result: 7, time: 0.1234 }
 
 
