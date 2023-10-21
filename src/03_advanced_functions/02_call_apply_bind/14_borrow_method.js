@@ -11,20 +11,19 @@ lacks a greet method.
 uses .call to apply the source.greet method to target and returns the greeting.
 */
 function borrowMethod() {
-    const source = {
-      greet() {
-        return `Hello, ${this.name}`;
-      }
-    };
-  
-    const target = {
-      name: 'John'
-    };
-  
-    // Borrow the greet method from source and use it for target
-    // TODO: Implement this part
-    
-  }
-  
-  module.exports = borrowMethod;
-  
+  const source = {
+    greet() {
+      return `Hello, ${this.name}`;
+    }
+  };
+
+  const target = {
+    name: 'John'
+  };
+
+  // Borrow the greet method from source and use it for target
+  // TODO: Implement this part
+  return source.greet.call(target)
+}
+
+module.exports = borrowMethod;
