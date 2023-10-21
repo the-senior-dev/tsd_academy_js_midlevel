@@ -1,4 +1,4 @@
-const forEachAsync = require('./../../../src/02_async_javascript/01_callbacks/05_forEachAsync.js');
+const forEachAsync = require('./../../src/04_advanced_async/05_forEachAsync');
 
 test('forEachAsync works with an empty array', async () => {
   const arr = [];
