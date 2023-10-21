@@ -1,5 +1,4 @@
-/*
-Problem: Implement a Promise-based Timer
+/*Problem: Implement a Promise-based Timer
 Create a function called promiseTimer that takes a delay in milliseconds 
 and returns a Promise. The Promise should resolve after the given 
 delay and return a string "Done!".
@@ -9,7 +8,7 @@ Requirements:
 - the returned Promise should resolve with a string "Done!"
 */
 
-// !! MAKE SURE YOU KNOW HOW TO USE new Promise() - is a common live coding interview  !!
+// !! MAKE SURE YOU KNOW HOW TO USE new Promise() - is a common challenge in the live coding interview  !!
 
 function promiseTimer(delay) {
     // Implement this function

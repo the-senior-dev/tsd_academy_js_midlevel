@@ -47,7 +47,7 @@ Legend:
 - [ ] 🔄 **Timer Functions**
   - [ ] [06. Delayed Print](src/02_async_javascript/02_timer_functions/06_delayed_print.js)
   - [ ] [07. Interval Counter](src/02_async_javascript/02_timer_functions/07_interval_counter.js)
-  - [ ] [08. Auto Stop Counter](src/02_async_javascript/02_timer_functions/08_auto_stop_counter.js)
+  
 
 - [ ] 🔄 **Promises**
   - [ ] [09. Promise Timer](src/02_async_javascript/03_promises/09_promise_timer.js)
