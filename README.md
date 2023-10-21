@@ -10,6 +10,44 @@ The purpose of this exercise package is simple - to help you understand fundamen
 
 ---
 
+### Progress Sheet
+##### 01. JavaScript Design Patterns
+
+- [ ] **Function Currying**
+  - [x] 01. Easy Curring
+  - [ ] 02. Advanced Curry
+
+- [ ] **Higher-Order Functions**
+  - [ ] 01. Timed Execution
+
+##### 02. Asynchronous JavaScript
+- [ ] **Callbacks**
+  - [ ] Using callbacks for async operations
+  - [ ] Error handling in callbacks
+
+- [ ] **Promises**
+  - [ ] Creating a new promise
+  - [ ] Using `.then()` and `.catch()`
+
+- [ ] **Async/Await**
+  - [ ] Basic Async/Await
+  - [ ] Error handling in Async/Await
+
+##### 03. Advanced Functions
+- [ ] **The THIS Object**
+    - [ ] Basic Async/Await
+- [ ] **Function Methods**
+    - [ ] Call
+    - [ ] Bind
+    - [ ] Apply
+
+
+
+
+
+
+
+
 ## 01 - Design Pattern: Function Curry 🪆
 
 Understand the basic data types in JavaScript.
