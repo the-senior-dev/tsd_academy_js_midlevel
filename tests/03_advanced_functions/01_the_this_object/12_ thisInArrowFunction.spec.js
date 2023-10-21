@@ -1,4 +1,4 @@
-const exploreThisInArrowFunction = require('./../../../src/03_advanced_functions/01_the_this_object/12_thisInArrowFunction.js');
+const exploreThisInArrowFunction = require('./../../../src/03_advanced_functions/01_the_this_object/12_thisInArrowFunction');
 
 test('Understands the value of this in arrow functions and regular functions', () => {
   const arrowFunc = () => this.name;
