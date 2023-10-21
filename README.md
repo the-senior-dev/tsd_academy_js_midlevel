@@ -1,6 +1,8 @@
 # TSD Academy - JavaScript Midlevel Action Item 🚀
 
-The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to make the tests pass. 🎯
+In this exercise we will focus on `JavaScript Desing Patterns` and `Asyncronous Programming`.
+
+![theSeniorDev](/docs/mastery_cover.png)
 
 ## Getting Started 🛠️
 

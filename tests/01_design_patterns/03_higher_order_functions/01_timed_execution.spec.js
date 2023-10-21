@@ -1,4 +1,4 @@
-const timeExecution = require('../../../src/01_design_patterns/03_higher_order_functions/01_timed_execution');
+const timeExecution = require('../../../src/01_design_patterns/03_higher_order_functions/04_timed_execution');
 
 // Test if timeExecution is a function
 test('timeExecution function is defined', () => {
