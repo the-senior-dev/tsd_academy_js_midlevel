@@ -4,52 +4,52 @@ The purpose of this exercise package is simple - to help you understand fundamen
 
 ## Getting Started 🛠️
 
-1. Clone this repository.
-2. Run `npm install` to install dependencies.
-3. Run `npm test` to run the `Jest` tests.
+1. 📦 Clone this repository.
+2. 📚 Run `npm install` to install dependencies.
+3. 🧪 Run `npm test` to run the `Jest` tests.
 
 ---
 
-### Progress Sheet
-##### 01. JavaScript Design Patterns
+### 📋 Progress Sheet 
 
-- [ ] **Function Currying**
-  - [x] 01. Easy Curring
-  - [ ] 02. Advanced Curry
+##### 🌟 01. JavaScript Design Patterns
 
-- [ ] **Higher-Order Functions**
-  - [ ] 01. Timed Execution
+- [ ] 🍛 **Function Currying**
+  - [x] ✅ 01. Easy Curring
+  - [ ] ❌ 02. Advanced Curry
 
-##### 02. Asynchronous JavaScript
-- [ ] **Callbacks**
-  - [ ] Using callbacks for async operations
-  - [ ] Error handling in callbacks
+- [ ] 🔗 **Higher-Order Functions**
+  - [ ] ❌ 01. Timed Execution
 
-- [ ] **Promises**
-  - [ ] Creating a new promise
-  - [ ] Using `.then()` and `.catch()`
+##### ⏳ 02. Asynchronous JavaScript
 
-- [ ] **Async/Await**
-  - [ ] Basic Async/Await
-  - [ ] Error handling in Async/Await
+- [ ] ⏩ **Callbacks**
+  - [ ] ❌ Using callbacks for async operations
+  - [ ] ❌ Error handling in callbacks
 
-##### 03. Advanced Functions
-- [ ] **The THIS Object**
-    - [ ] Basic Async/Await
-- [ ] **Function Methods**
-    - [ ] Call
-    - [ ] Bind
-    - [ ] Apply
+- [ ] 🔄 **Promises**
+  - [ ] ❌ Creating a new promise
+  - [ ] ❌ Using `.then()` and `.catch()`
 
----
+- [ ] 🕒 **Async/Await**
+  - [ ] ❌ Basic Async/Await
+  - [ ] ❌ Error handling in Async/Await
 
-## 01 - Design Pattern: Function Curry 🪆
+##### 🔍 03. Advanced Functions
 
+- [ ] 👁️ **The THIS Object**
+    - [ ] ❌ Basic Async/Await
+- [ ] 📞 **Function Methods**
+    - [ ] ❌ Call
+    - [ ] ❌ Bind
+    - [ ] ❌ Apply
 
 ---
 
-## 02 -  Prototypal Inheritance 👩‍👧‍👦
+## 📖 01 - Design Pattern: Function Curry 🪆
 
+---
 
+## 👪 02 - Prototypal Inheritance 👩‍👧‍👦
 
 ---
