@@ -2,13 +2,20 @@
 
 In this exercise we will focus on `JavaScript Design Patterns` and `Asynchronous Programming`. 🛠️🧠
 
-![theSeniorDev](/docs/mastery_cover.png)
+![theSeniorDev](/docs/tsd_academy.png)
 
 ## Getting Started 🛠️
 
 1. 📦 Clone this repository.
 2. 📚 Run `npm install` to install dependencies.
 3. 🧪 Run `npm test` to run the `Jest` tests.
+
+
+![ai-tools](docs/ai-tools.png)
+⚠️⚠️⚠️ **We stronglly advice against using AI tools like `GitHub Copilot` or `ChatGPT` to solve this Action Item! In most interviews, you will be asked to disabled those.** ⚠️⚠️⚠️
+
+At the end of the exercise all the test should pass:
+![all-test-pass](docs/all-tests-pass.png)
 
 ---
 
