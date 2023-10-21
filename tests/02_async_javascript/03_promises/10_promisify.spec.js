@@ -1,4 +1,4 @@
-const promisify = require('./../../../src/02_async_javascript/03_promises/10_promisify');
+const promisify = require('./../../../src/02_async_javascript/03_promises/');
 
 test('Resolves when callback is called with null error', async () => {
   const asyncFunction = (value, callback) => {
