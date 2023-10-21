@@ -15,7 +15,8 @@ Requirements:
 
 function objectManipulator(obj, multiply) {
     // Implement this function
-    return [];
+    obj.multiply = multiply;
+    return [multiply(), obj.multiply()];
 }
 
 module.exports = objectManipulator;
