@@ -67,7 +67,7 @@ At the end of the exercise all the test should pass:
 ### Function Curring
 
 #### 01. Easy Curring 
-
+![basic-curring](docs/problems/01_basic_curry.png)
 Understand the basics of function currying by completing this [exercise](src/01_design_patterns/01_function_currying/01_easy_currying.js). 
 
 🧪 Run Tests: 
@@ -76,6 +76,7 @@ npm run test:watch 01_easy_currying
 ```
 
 #### 02. Advanced Curry
+![advanced-curring](docs/problems/02_advanced_curry.png)
 Master advanced function currying in JavaScript. Try the [exercise](src/01_design_patterns/01_function_currying/02_advanced_curry.js). 
 
 🧪 Run Tests: 
@@ -84,6 +85,7 @@ Master advanced function currying in JavaScript. Try the [exercise](src/01_desig
 ---
 
 #### 03. Prototypal Inheritance
+![proto-inherit](docs/problems/03_prototypal_inheritance.png)
 Grasp how inheritance works in JavaScript with this [exercise](src/01_design_patterns/02_prototypal_inheritance/03_person_inheritance.js). 
 
 🧪 Run Test: 
@@ -93,6 +95,7 @@ Grasp how inheritance works in JavaScript with this [exercise](src/01_design_pat
 ### Asynchronous JavaScript
 
 #### 04. Timed Execution
+![timed-for-each](docs/problems/04_timed_for_each.png)
 Learn to implement timed execution of functions. Get started with this [exercise](src/01_design_patterns/03_higher_order_functions/04_timed_execution.js). 
 
 🧪 Run Tests: 
