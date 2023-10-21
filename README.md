@@ -15,8 +15,8 @@ The purpose of this exercise package is simple - to help you understand fundamen
 ##### 🌟 01. JavaScript Design Patterns
 
 - [ ] 🍛 **Function Currying**
-  - [x] ✅ 01. Easy Curring
-  - [ ] ❌ 02. Advanced Curry
+  - [x] [01. Easy Curring](src/01_design_patterns/01_function_currying/01_easy_currying.js)
+  - [ ] [02. Advanced Curry](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
 
 - [ ] 🔗 **Higher-Order Functions**
   - [ ] ❌ 01. Timed Execution
@@ -26,6 +26,11 @@ The purpose of this exercise package is simple - to help you understand fundamen
 - [ ] ⏩ **Callbacks**
   - [ ] ❌ Using callbacks for async operations
   - [ ] ❌ Error handling in callbacks
+
+- [ ] 🔄 **Timer Functions**
+  - [ ] ❌ 
+  - [ ] ❌ 
+
 
 - [ ] 🔄 **Promises**
   - [ ] ❌ Creating a new promise
