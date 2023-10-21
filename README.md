@@ -102,15 +102,17 @@ Learn to implement timed execution of functions. Get started with this [exercise
 `npm run test:watch 04_timed_execution`
 
 #### 05. `ForEach` Async
+![for-each](docs/problems/05_forEachAsync.png)
 Get hands-on experience with callbacks in this [exercise](src/02_async_javascript/01_callbacks/05_forEachAsync.js). 
 
-🧪 Run Test: 
+🧪 Run Tests: 
 `npm run test:watch 05_forEachAsync`
 
 #### 06. Delayed Print
+![delayed-print](docs/problems/06_delayed_print.png)
 Understand `setTimeout` through this [exercise](src/02_async_javascript/02_timer_functions/06_delayed_print.js). 
 
-🧪 Run Test: 
+🧪 Run Tests: 
 `npm run test:watch 06_delayed_print`
 
 #### 07. Interval Counter
@@ -120,12 +122,14 @@ Learn how to use `setInterval` with this [exercise](src/02_async_javascript/02_t
 `npm run test:watch 07_interval_counter`
 
 #### 08. Auto Stop Counter
+![auto-stop-counter](docs/problems/08_auto_stop.png)
 Master timers by making one that stops automatically in this [exercise](src/02_async_javascript/02_timer_functions/08_auto_stop_counter.js). 
 
 🧪 Run Test: 
 `npm run test:watch 08_auto_stop_counter`
 
 #### 09. Promise Timer
+![promise-timer](docs/problems/09_promise_timer.png)
 Get to grips with Promises by building a timer in this [exercise](src/02_async_javascript/03_promises/09_promise_timer.js). 
 
 🧪 Run Test: 
