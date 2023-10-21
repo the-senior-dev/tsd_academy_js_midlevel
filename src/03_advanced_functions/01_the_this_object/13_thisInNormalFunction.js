@@ -8,14 +8,13 @@ Return an array containing the two results.
 Requirements:
 - the multiply function should multiply the value property of the this object by 2
 - directly call multiply and also call it as a method of the object
-- return an array containing the two results
+- return an array containing the two results: return [multiply(), obj.multiply()]
 */
 
 // !!! Check the tests of this function to understand the this object value in arrow functions!!!
 
 function objectManipulator(obj, multiply) {
-    // Implement this function
-    return [];
+
 }
 
 module.exports = objectManipulator;
