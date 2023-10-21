@@ -58,13 +58,23 @@ In this exercise we will focus on `JavaScript Design Patterns` and `Asynchronous
 
 ---
 ### Function Curring
-#### 01. Easy Curring 
-Understand the basics of function currying by completing this [exercise](src/01_design_patterns/01_function_currying/01_easy_currying.js). 🧪 Run Test: 
 
-`npm run test:watch 01_easy_currying`
+#### 01. Easy Curring 
+
+![basic-curry](docs/basic_curry.png)
+Understand the basics of function currying by completing this [exercise](src/01_design_patterns/01_function_currying/01_easy_currying.js). 
+
+🧪 Run Tests: 
+```bash
+npm run test:watch 01_easy_currying
+```
 
 #### 02. Advanced Curry
-Master advanced function currying in JavaScript. Try the [exercise](src/01_design_patterns/01_function_currying/02_advanced_curry.js). 🧪 Run Test: `npm run test:watch 02_advanced_curry`
+![advanced-curry](/docs/advanced_curry.png)
+Master advanced function currying in JavaScript. Try the [exercise](src/01_design_patterns/01_function_currying/02_advanced_curry.js). 
+
+🧪 Run Tests: 
+`npm run test:watch 02_advanced_curry`
 
 ---
 
