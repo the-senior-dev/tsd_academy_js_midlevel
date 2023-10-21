@@ -22,9 +22,9 @@ At the end of the exercise all the test should pass:
 ### 📋 Progress Sheet 
 
 Legend:
-🟩 EASY - probems that are pretty much straigh forward
-🟨 MEDIUM - a challenge for a mid-level dev
-🟥 HARD - harder problems that use advanced tecniques
+1. 🟩 EASY - probems that are pretty much straigh forward
+2. 🟨 MEDIUM - a challenge for a mid-level dev
+3. 🟥 HARD - harder problems that use advanced tecniques
 
 
 #### 🌟 01. JavaScript Design Patterns
