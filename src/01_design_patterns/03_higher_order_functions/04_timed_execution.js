@@ -17,13 +17,17 @@ time: The time taken for fn to execute in milliseconds
 
 function timeExecution(fn) {
     // Your code here
+    const start = new Date();
+    const result = fn();
+    const time = new Date() - start;
+    return {result, time}
 }
 
 // Example
 /*
 const add = (a, b) => a + b;
 const timedAdd = timeExecution(add);
-const output = timedAdd(3, 4);
+const output = timedAdd(3, 4); // { result: 7, time: 0.1234 }
 console.log(output);
 */
 
