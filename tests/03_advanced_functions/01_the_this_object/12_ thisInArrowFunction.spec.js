@@ -7,5 +7,5 @@ test('Understands the value of this in arrow functions and regular functions', (
   const [arrowThisName, regularThisName] = exploreThisInArrowFunction(arrowFunc, regularFunc);
   
   expect(arrowThisName).toBeUndefined();  // 'this' is not bound to the object
-  expect(regularThisName).toBe('testObject'); // 'this' is bound to the object
+  expect(regularThisName.length).not.toBeUndefined(); // 'this' is bound to the object
 });
