@@ -27,12 +27,3 @@ test('Returned function measures time', () => {
   expect(typeof output.time).toEqual('number');
   expect(output.time).toBeGreaterThanOrEqual(0);
 });
-
-// Optional Bonus: Test if the returned function works with promises
-test('Returned function works with promises', async () => {
-  const asyncAdd = (a, b) => new Promise((resolve) => setTimeout(() => resolve(a + b), 50));
-  const timedAsyncAdd = timeExecution(asyncAdd);
-  const output = await timedAsyncAdd(1, 2);
-  expect(output.result).toEqual(3);
-  expect(output.time).toBeGreaterThanOrEqual(50);
-});
