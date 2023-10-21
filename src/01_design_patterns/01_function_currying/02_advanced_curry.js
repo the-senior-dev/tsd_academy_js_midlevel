@@ -1,4 +1,4 @@
-/* Part 1: Implement the Curry Function
+/* Problem 2: Implement the Curry Function
 Write a function named curry that takes a function fn as an argument. 
 The curry function should return a new function that can take multiple arguments 
 either all at once or one at a time. For example:
@@ -8,6 +8,8 @@ either all at once or one at a time. For example:
     const curriedAdd = curry(add);
     curriedAdd(1, 2); // 3
 */
+
+// HINT: You will need to use recursion to solve this problem!
 function curry(fn) {
     // Your code here
 }
