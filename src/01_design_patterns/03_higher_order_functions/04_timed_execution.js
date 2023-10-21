@@ -29,5 +29,4 @@ console.log(output);
 
 // Output should be something like { result: 7, time: 0.1234 }
 
-
 module.exports = timeExecution;
