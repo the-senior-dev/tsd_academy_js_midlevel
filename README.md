@@ -41,33 +41,33 @@ Legend:
 
 #### ⏳ 02. Asynchronous JavaScript
 
-- [ ] ⏩ **Callbacks**
-  - [ ] [05. ForEach Async](src/02_async_javascript/01_callbacks/05_forEachAsync.js)
-
 - [ ] 🔄 **Timer Functions**
-  - [ ] [06. Delayed Print](src/02_async_javascript/02_timer_functions/06_delayed_print.js)
-  - [ ] [07. Interval Counter](src/02_async_javascript/02_timer_functions/07_interval_counter.js)
+  - [ ] 🟩 EASY [06. Delayed Print](src/02_async_javascript/02_timer_functions/06_delayed_print.js)
+  - [ ] 🟨 MEDIUM [07. Interval Counter](src/02_async_javascript/02_timer_functions/07_interval_counter.js)
   
 
 - [ ] 🔄 **Promises**
-  - [ ] [09. Promise Timer](src/02_async_javascript/03_promises/09_promise_timer.js)
-  - [ ] [10. Promisify](src/02_async_javascript/03_promises/10_promisify.js)
+  - [ ] 🟨 MEDIUM [09. Promise Timer](src/02_async_javascript/03_promises/09_promise_timer.js)
+  - [ ] 🟥 HARD[10. Promisify](src/02_async_javascript/03_promises/10_promisify.js)
 
 - [ ] 🕒 **Async/Await**
-  - [ ] [11. Async Fetcher](src/02_async_javascript/04_async_await/11_async_fetcher.js)
+  - [ ] 🟨 MEDIUM [11. Async Fetcher](src/02_async_javascript/04_async_await/11_async_fetcher.js)
 
 #### 🔍 03. Advanced Functions
 
 - [ ] 👁️ **The THIS Object**
-  - [ ] [12. `this` in `arrow functions`](src/03_advanced_functions/01_the_this_object/12_thisInArrowFunction.js)
-  - [ ] [13. `this` in `normal functions`](src/03_advanced_functions/01_the_this_object/13_thisInNormalFunction.js)
+  - [ ] 🟨 MEDIUM [12. `this` in `arrow functions`](src/03_advanced_functions/01_the_this_object/12_thisInArrowFunction.js)
+  - [ ] 🟩 EASY [13. `this` in `normal functions`](src/03_advanced_functions/01_the_this_object/13_thisInNormalFunction.js)
 
 - [ ] 📞 **Call / Apply / Bind**
-  - [ ] [14. Borrow Method](src/03_advanced_functions/02_call_apply_bind/14_borrow_method.js)
+  - [ ] 🟨 MEDIUM [14. Borrow Method](src/03_advanced_functions/02_call_apply_bind/14_borrow_method.js)
+
+#### 🔍 04. Advanced Async
+  - [ ]  🟥 HARD [15. `forEach` Async](src/04_advanced_async/05_forEachAsync.js)
 
 ---
 
-## 📖 Problem Breakdown 🎯
+## 📖 Problems Breakdown 🎯
 
 ---
 ### Function Curring
