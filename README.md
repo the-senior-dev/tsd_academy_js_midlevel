@@ -21,17 +21,23 @@ At the end of the exercise all the test should pass:
 
 ### 📋 Progress Sheet 
 
+Legend:
+🟩 EASY - probems that are pretty much straigh forward
+🟨 MEDIUM - a challenge for a mid-level dev
+🟥 HARD - harder problems that use advanced tecniques
+
+
 #### 🌟 01. JavaScript Design Patterns
 
 - [ ] 🍛 **Function Currying**
-    - [x] [01. Easy Currying](src/01_design_patterns/01_function_currying/01_easy_currying.js)
-    - [ ] [02. Advanced Curry](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
+    - [x] 🟩 EASY [01. Easy Currying](src/01_design_patterns/01_function_currying/01_easy_currying.js)
+    - [ ] 🟥 HARD  [02. Advanced Curry](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
 
 - [ ] 🏛️ **Prototypal Inheritance**
-    - [ ] [03. Prototypal Inheritance](src/01_design_patterns/02_prototypal_inheritance/03_person_inheritance.js)
+    - [ ] 🟩 EASY [03. Prototypal Inheritance](src/01_design_patterns/02_prototypal_inheritance/03_person_inheritance.js)
 
 - [ ] 🔗 **Higher-Order Functions**
-  - [ ] [04. Timed Execution](src/01_design_patterns/03_higher_order_functions/04_timed_execution.js)
+  - [ ] 🟨 MEDIUM [04. Timed Execution](src/01_design_patterns/03_higher_order_functions/04_timed_execution.js)
 
 #### ⏳ 02. Asynchronous JavaScript
 
