@@ -69,8 +69,7 @@ Legend:
 
 ## 📖 Problems Breakdown 🎯
 
----
-### Function Curring
+### JavaScript Design Patterns
 
 #### 01. Easy Curring 
 Understand the basics of function currying by completing this [exercise](src/01_design_patterns/01_function_currying/01_easy_currying.js). 
@@ -97,10 +96,8 @@ Grasp how inheritance works in JavaScript with this [exercise](src/01_design_pat
 ```bash
 npm run test:watch 03_person_inheritance
 ```
----
-### Asynchronous JavaScript
 
-#### 04. Timed Execution
+#### 04. Higher Order Function: Timed Execution
 Learn to implement timed execution of functions. Get started with this [exercise](src/01_design_patterns/03_higher_order_functions/04_timed_execution.js). 
 
 🧪 Run Tests: 
@@ -108,13 +105,9 @@ Learn to implement timed execution of functions. Get started with this [exercise
 npm run test:watch 04_timed_execution
 ```
 
-#### 05. `ForEach` Async
-Get hands-on experience with callbacks in this [exercise](src/02_async_javascript/01_callbacks/05_forEachAsync.js). 
+---
 
-🧪 Run Tests: 
-```bash
-npm run test:watch 05_forEachAsync
-```
+### Asynchronous JavaScript
 
 #### 06. Delayed Print
 Understand `setTimeout` through this [exercise](src/02_async_javascript/02_timer_functions/06_delayed_print.js). 
