@@ -35,7 +35,7 @@ Legend:
 
 - [ ] 🍛 **Function Currying**
     - [x] 🟩 EASY [01. Easy Currying](src/01_design_patterns/01_function_currying/01_easy_currying.js)
-    - [ ] 🟥 HARD  [02. Advanced Curry](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
+    - [ ] 🟥 HARD  [02. Advanced Curryin](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
 
 - [ ] 🏛️ **Prototypal Inheritance**
     - [ ] 🟩 EASY [03. Prototypal Inheritance](src/01_design_patterns/02_prototypal_inheritance/03_object_inheritance.js)
@@ -75,7 +75,7 @@ Legend:
 
 ### JavaScript Design Patterns
 
-#### 01. Easy Curring 
+#### 01. Easy Currying
 Understand the basics of function currying by completing this [exercise](src/01_design_patterns/01_function_currying/01_easy_currying.js). 
 
 🧪 Run Tests: 
@@ -83,7 +83,7 @@ Understand the basics of function currying by completing this [exercise](src/01_
 npm run test:watch 01_easy_currying
 ```
 
-#### 02. Advanced Curry
+#### 02. Advanced Currying
 Master advanced function currying in JavaScript. Try the [exercise](src/01_design_patterns/01_function_currying/02_advanced_curry.js). 
 
 🧪 Run Tests: 
