@@ -4,6 +4,11 @@ In this exercise we will focus on `JavaScript Design Patterns` and `Asynchronous
 
 ![theSeniorDev](/docs/tsd_academy.png)
 
+### Learning Objectives 🎯
+1. Understand various `JavaScript Design Patterns`.
+2. Master `Asynchronous JavaScript` programming.
+3. Gain proficiency in `Test-Driven Development (TDD)`.
+
 ## Getting Started 🛠️
 
 1. 📦 Clone this repository.
@@ -14,8 +19,7 @@ In this exercise we will focus on `JavaScript Design Patterns` and `Asynchronous
 ![ai-tools](docs/ai-tools.png)
 ⚠️⚠️⚠️ **We stronglly advice against using AI tools like `GitHub Copilot` or `ChatGPT` to solve this Action Item! In most interviews, you will be asked to disabled those.** ⚠️⚠️⚠️
 
-The code is covered in tests aiming for an 100% coverage so you can work in `TDD` style. Make sure, at the end of the exercise, that all the tests pass:
-![all-test-pass](docs/code_coverage_all.png)
+📈 The code is covered in tests aiming for 100% coverage, setting you up for TDD style programming. Make sure all tests pass by the end of the exercise!![all-test-pass](docs/code_coverage_all.png)
 
 ---
 
