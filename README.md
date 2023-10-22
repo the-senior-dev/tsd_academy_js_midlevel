@@ -195,4 +195,4 @@ npm run test:watch 14_borrow_method
 ##### Getting Feedback & Help
 If you have issues with the **Action Item**, you can ask for help in the [Community](https://www.skool.com/devmastery-academy-8041).
 
-Made with 🧡 in Berlin by @TheSeniorDev
+Made with ❤️ in Berlin by @TheSeniorDev
