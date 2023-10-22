@@ -1,5 +1,5 @@
 module.exports = {
-    verbose: false,
+    verbose: true,
     testMatch: ['**/tests/**/*spec.js'],
     testPathIgnorePatterns: ['node_modules'],
     coveragePathIgnorePatterns: ['node_modules'],
