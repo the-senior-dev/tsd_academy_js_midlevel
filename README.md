@@ -17,18 +17,18 @@ In this exercise we will focus on `JavaScript Design Patterns` and `Asynchronous
 
 
 ![ai-tools](docs/ai-tools.png)
-⚠️⚠️⚠️ **We stronglly advice against using AI tools like `GitHub Copilot` or `ChatGPT` to solve this Action Item! In most interviews, you will be asked to disabled those.** ⚠️⚠️⚠️
+⚠️⚠️⚠️ **We strongly advise against using AI tools like `GitHub Copilot` or `ChatGPT` to solve this Action Item! In most interviews, you will be asked to disable those.** ⚠️⚠️⚠️
 
-📈 The code is covered in tests aiming for 99% test coverage, setting you up for TDD style programming. Make sure all tests pass by the end of the exercise!![all-test-pass](docs/code_coverage_all.png)
+📈 The code is covered in tests aiming for 99% test coverage, setting you up for TDD-style programming. Make sure all tests pass by the end of the exercise!![all-test-pass](docs/code_coverage_all.png)
 
 ---
 
 ### 📋 Progress Sheet 
 
 Legend:
-1. 🟩 EASY - probems that are pretty much straigh forward
+1. 🟩 EASY - problems that are pretty much straightforward
 2. 🟨 MEDIUM - a challenge for a mid-level dev
-3. 🟥 HARD - harder problems that use advanced tecniques
+3. 🟥 HARD - harder problems that use advanced techniques
 
 
 #### 🌟 01. JavaScript Design Patterns
@@ -52,7 +52,7 @@ Legend:
 
 - [ ] 🔄 **Promises**
   - [ ] 🟨 MEDIUM [09. Promise Timer](src/02_async_javascript/03_promises/09_promise_timer.js)
-  - [ ] 🟥 HARD[10. Promisify](src/02_async_javascript/03_promises/10_promisify.js)
+  - [ ] 🟥 HARD [10. Promisify](src/02_async_javascript/03_promises/10_promisify.js)
 
 - [ ] 🕒 **Async/Await**
   - [ ] 🟨 MEDIUM [11. Async Fetcher](src/02_async_javascript/04_async_await/11_async_fetcher.js)
@@ -94,7 +94,7 @@ npm run test:watch 02_advanced_curry
 ---
 
 #### 03. Prototypal Inheritance
-Grasp how inheritance works in JavaScript with this [exercise](src/01_design_patterns/02_prototypal_inheritance/03_object_inheritance.js). 
+Learn how inheritance works in JavaScript with this [exercise](src/01_design_patterns/02_prototypal_inheritance/03_object_inheritance.js). 
 
 🧪 Run Test: 
 ```bash
