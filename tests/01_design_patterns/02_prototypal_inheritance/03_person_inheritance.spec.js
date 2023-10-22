@@ -1,4 +1,4 @@
-const { Vehicle, Car, ToyotaSupra, MotorBike } = require('./../../../src/01_design_patterns/02_prototypal_inheritance/03_person_inheritance');
+const { Vehicle, Car, ToyotaSupra, MotorBike, CustomSupra } = require('./../../../src/01_design_patterns/02_prototypal_inheritance/03_person_inheritance');
  
 // Tests for Vehicle
 test('Vehicle should have correct default properties', () => {

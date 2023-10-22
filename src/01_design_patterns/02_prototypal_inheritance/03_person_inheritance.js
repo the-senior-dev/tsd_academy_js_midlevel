@@ -114,5 +114,6 @@ module.exports = {
     Vehicle,
     Car,
     ToyotaSupra,
+    CustomSupra,
     MotorBike
 }
