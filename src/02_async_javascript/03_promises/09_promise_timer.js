@@ -13,7 +13,9 @@ Requirements:
 function promiseTimer(delay) {
     // Implement this function
     return new Promise((resolve, reject) => {
-        // Your code here
+        setTimeout(()=> {
+            resolve("Done!")
+        }, delay)
     });
 }
 

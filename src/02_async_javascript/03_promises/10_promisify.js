@@ -21,6 +21,17 @@ its callback with an error.
 
 function promisify(nodeStyleFunction) {
     // Implement this function
+    return function(...args){
+        return new Promise((resolve, reject) => {
+            nodeStyleFunction(...args, (error, result) => {
+                if(error){
+                    reject(error)
+                }else{
+                    resolve(result)
+                }
+            })
+        })
+    }
 }
 
 module.exports = promisify;

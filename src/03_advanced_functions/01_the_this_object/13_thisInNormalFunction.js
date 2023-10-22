@@ -14,7 +14,9 @@ Requirements:
 // !!! Check the tests of this function to understand the this object value in arrow functions!!!
 
 function objectManipulator(obj, multiply) {
-
+    // Implement this function
+    obj.multiply = multiply;
+    return [multiply(), obj.multiply()];
 }
 
 module.exports = objectManipulator;
