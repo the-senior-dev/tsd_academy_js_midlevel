@@ -98,7 +98,7 @@ Learn how inheritance works in JavaScript with this [exercise](src/01_design_pat
 
 🧪 Run Test: 
 ```bash
-npm run test:watch 03_person_inheritance
+npm run test:watch 03_object_inheritance
 ```
 
 #### 04. Higher Order Function: Timed Execution
