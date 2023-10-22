@@ -14,8 +14,8 @@ In this exercise we will focus on `JavaScript Design Patterns` and `Asynchronous
 ![ai-tools](docs/ai-tools.png)
 ⚠️⚠️⚠️ **We stronglly advice against using AI tools like `GitHub Copilot` or `ChatGPT` to solve this Action Item! In most interviews, you will be asked to disabled those.** ⚠️⚠️⚠️
 
-At the end of the exercise all the test should pass:
-![all-test-pass](docs/all-tests-pass.png)
+The code is covered in tests aiming for an 100% coverage so you can work in `TDD` style. Make sure, at the end of the exercise, that all the tests pass:
+![all-test-pass](docs/code_coverage_all.png)
 
 ---
 

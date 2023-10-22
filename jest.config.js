@@ -4,7 +4,7 @@ module.exports = {
     testPathIgnorePatterns: ['node_modules'],
     coveragePathIgnorePatterns: ['node_modules'],
     coverageDirectory: './coverage',
-    collectCoverage: false,
+    collectCoverage: true,
     collectCoverageFrom: ['**/src/**/*.js'],
     coverageReporters: ['text', 'html'],
     moduleFileExtensions: ['js']
