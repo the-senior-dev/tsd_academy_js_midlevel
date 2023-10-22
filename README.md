@@ -34,7 +34,7 @@ Legend:
     - [ ] 🟥 HARD  [02. Advanced Curry](src/01_design_patterns/01_function_currying/02_advanced_curry.js)
 
 - [ ] 🏛️ **Prototypal Inheritance**
-    - [ ] 🟩 EASY [03. Prototypal Inheritance](src/01_design_patterns/02_prototypal_inheritance/03_person_inheritance.js)
+    - [ ] 🟩 EASY [03. Prototypal Inheritance](src/01_design_patterns/02_prototypal_inheritance/03_object_inheritance.js)
 
 - [ ] 🔗 **Higher-Order Functions**
   - [ ] 🟨 MEDIUM [04. Timed Execution](src/01_design_patterns/03_higher_order_functions/04_timed_execution.js)
@@ -91,7 +91,7 @@ npm run test:watch 02_advanced_curry
 ---
 
 #### 03. Prototypal Inheritance
-Grasp how inheritance works in JavaScript with this [exercise](src/01_design_patterns/02_prototypal_inheritance/03_person_inheritance.js). 
+Grasp how inheritance works in JavaScript with this [exercise](src/01_design_patterns/02_prototypal_inheritance/03_object_inheritance.js). 
 
 🧪 Run Test: 
 ```bash
